@@ -1,6 +1,7 @@
 # Hello World
 
 I am a Javascript/Typescript developer working on projects related with blockchain.
+
 I also code using Angular/React, Python and Solidity for other stuff.
 
 ### What you will find on this account ?
